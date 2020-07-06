@@ -2,7 +2,7 @@
 
 > A curated list of awesome things related to Vue.js
 
-##Table of Contents
+## Table of Contents
   - [Monorepo](#monorepo)
     - [What is it?](#what-is-it)
     - [Best Practice Monorepo?](#best-practice-monorepo)
